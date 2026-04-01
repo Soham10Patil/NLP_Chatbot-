@@ -16,9 +16,6 @@ This project is a conversational chatbot built using a pre-trained transformer m
 ## 🔄 Pipeline
 User Input → Tokenization → Transformer Model → Response Generation → Output
 
-## 📸 Sample Output
-(Add screenshot here)
-
 ## 💡 Learnings
 - Understanding transformer-based NLP models
 - Context handling using chat history
